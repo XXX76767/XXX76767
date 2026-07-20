@@ -1,6 +1,6 @@
 ## Olá, eu sou o Eliézer! 👋
 
-🚀 **Desenvolvedor iniciante em formação**  
+🚀 **Desenvolvedor Back-End em formação**  
 
 ## Projetos
 
